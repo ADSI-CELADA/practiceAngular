@@ -1,0 +1,21 @@
+header{
+    background-color: #fa98c3;
+}
+
+a{
+    color: aliceblue;
+}
+
+img{
+    width: 5em;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+nav ul li a{
+    font-size: 20px;
+}
